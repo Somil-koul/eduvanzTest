@@ -1,0 +1,6 @@
+com\phptravels\pages\GetLocation.class
+com\phptravels\pages\BasePage.class
+com\phptravels\pages\PaymentPage.class
+com\phptravels\pages\BookFlightsPage.class
+com\phptravels\pages\LoginPage.class
+com\phptravels\pages\Pages.class

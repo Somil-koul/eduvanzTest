@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="63160" started-at="2022-02-12T23:54:10 IST" finished-at="2022-02-12T23:55:14 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="63160" started-at="2022-02-12T23:54:10 IST" finished-at="2022-02-12T23:55:14 IST">
+      <class name="com.phptravels.testcases.LoginTest">
+        <test-method status="PASS" signature="setUpTest(java.lang.String)[pri:0, instance:com.phptravels.testcases.LoginTest@1b26f7b2]" name="setUpTest" is-config="true" duration-ms="10741" started-at="2022-02-12T23:54:10 IST" finished-at="2022-02-12T23:54:21 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="verifyLogin()[pri:1, instance:com.phptravels.testcases.LoginTest@1b26f7b2]" name="verifyLogin" duration-ms="5739" started-at="2022-02-12T23:54:21 IST" finished-at="2022-02-12T23:54:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method status="PASS" signature="testFlightBooking()[pri:2, instance:com.phptravels.testcases.LoginTest@1b26f7b2]" name="testFlightBooking" duration-ms="7496" started-at="2022-02-12T23:54:27 IST" finished-at="2022-02-12T23:54:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFlightBooking -->
+        <test-method status="PASS" signature="selectFlightTest()[pri:3, instance:com.phptravels.testcases.LoginTest@1b26f7b2]" name="selectFlightTest" duration-ms="5358" started-at="2022-02-12T23:54:34 IST" finished-at="2022-02-12T23:54:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectFlightTest -->
+        <test-method status="PASS" signature="testPaymentPage()[pri:4, instance:com.phptravels.testcases.LoginTest@1b26f7b2]" name="testPaymentPage" duration-ms="22604" started-at="2022-02-12T23:54:40 IST" finished-at="2022-02-12T23:55:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPaymentPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.phptravels.testcases.LoginTest@1b26f7b2]" name="tearDown" is-config="true" duration-ms="11181" started-at="2022-02-12T23:55:02 IST" finished-at="2022-02-12T23:55:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.phptravels.testcases.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
